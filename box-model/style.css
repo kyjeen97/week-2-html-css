@@ -1,0 +1,17 @@
+.margins, .paddings, .borders {
+    border: solid;
+    text-align: center;
+}
+
+.margins {
+    margin: 100px;
+}
+
+.paddings {
+    padding: 100px;
+}
+
+.borders {
+    border: 10px dotted blue;
+
+}
